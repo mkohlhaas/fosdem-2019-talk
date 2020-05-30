@@ -1,4 +1,5 @@
 #lang workshop/pony
+
 R[
   P[ firestorm "Hyaaaaar"
   P[ rarity "I'm so shiiinyyy"
